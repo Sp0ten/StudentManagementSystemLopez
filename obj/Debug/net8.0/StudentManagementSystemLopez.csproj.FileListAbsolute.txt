@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.AssemblyInfo.cs
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.sourcelink.json
+C:\Users\Student\source\repos\StudentManagementSystemLopez\bin\Debug\net8.0\StudentManagementSystemLopez.exe
+C:\Users\Student\source\repos\StudentManagementSystemLopez\bin\Debug\net8.0\StudentManagementSystemLopez.deps.json
+C:\Users\Student\source\repos\StudentManagementSystemLopez\bin\Debug\net8.0\StudentManagementSystemLopez.runtimeconfig.json
+C:\Users\Student\source\repos\StudentManagementSystemLopez\bin\Debug\net8.0\StudentManagementSystemLopez.dll
+C:\Users\Student\source\repos\StudentManagementSystemLopez\bin\Debug\net8.0\StudentManagementSystemLopez.pdb
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.dll
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\refint\StudentManagementSystemLopez.dll
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.pdb
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\StudentManagementSystemLopez.genruntimeconfig.cache
+C:\Users\Student\source\repos\StudentManagementSystemLopez\obj\Debug\net8.0\ref\StudentManagementSystemLopez.dll
