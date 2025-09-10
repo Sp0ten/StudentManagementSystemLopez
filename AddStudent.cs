@@ -12,7 +12,7 @@ public static class AddStudent
         {
             if (cur.Data.ID == s.ID)
             {
-                Console.WriteLine($"❌ Student with ID {s.ID} already exists. Not added.");
+                Console.WriteLine($" Student with ID {s.ID} already exists. Not added.");
                 return head; 
             }
             cur = cur.Next;
