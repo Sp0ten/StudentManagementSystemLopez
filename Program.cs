@@ -40,7 +40,7 @@ class Program
                 case 3:
                     int id = ReadInt("Enter ID (0 to skip): ");
                     string name = ReadStr("Enter Name (leave blank to skip): ");
-                    if (id == 0) id = -1; // treat 0 as ignore
+                    if (id == 0) id = -1; 
                     SearchStudent.Search(head, id, name);
                     break;
 
